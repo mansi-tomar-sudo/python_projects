@@ -1,0 +1,14 @@
+pizza,200
+burger,181
+pasta,100
+chawmin,70
+momos,50
+pizza,200
+burger,181
+chawmin,70
+momos,50
+pasta,100
+chawal,80
+veg-chap,150
+chawal,80
+veg-chap,150
