@@ -35,8 +35,6 @@ A simple To-Do List application for adding, viewing, updating, and deleting dail
 ### 📌 weather.py
 A weather application that fetches real-time weather information for any city using the OpenWeatherMap API.
 
-### 📌 cwd_finder.py
-A simple utility program that displays the current working directory using Python's built-in `os` module.
 
 ---
 
